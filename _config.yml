@@ -1,0 +1,14 @@
+layout_spectrum: 0.17897665058262646
+typography_spectrum: 0.9549990417435765
+color:
+  brandStrength: 0.45712721813470125
+  lightness: 0.186860574176535
+  saturation: 0.1958928315434605
+  rhythmicContrast: 0.9901968338526785
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: freeradicals
